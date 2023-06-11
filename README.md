@@ -1,11 +1,14 @@
-# Website
+# LeetCode Solutions
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+This is a repository where I collect my code solucions from LeetCode.
 
-### Installation
+This README file contains description about how to work with this repository. If you are in search for how to use the final product (website/documentation), how easly navigate throw them, watch intro.
+
+##
+### Watch the project
 
 ```
-$ yarn
+(https://leetcode-five.vercel.app/)
 ```
 
 ### Local Development
