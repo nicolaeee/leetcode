@@ -7,11 +7,10 @@ This README file contains description about how to work with this repository. If
 ##
 ### Watch the project
 
-```
-(https://leetcode-five.vercel.app/)
-```
+https://leetcode-five.vercel.app/
 
 ### Local Development
+
 
 ```
 $ yarn start
